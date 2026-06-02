@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 tutorials/
 numpy_play_with_quera/
+exercises/create_reshape_and_slice_2/
 # C extensions
 *.so
 
